@@ -1,4 +1,4 @@
-# react-markdown
+# react-markdown-it
 
 A React component for rendering Markdown with [markdown-it](https://github.com/markdown-it/markdown-it).
 
