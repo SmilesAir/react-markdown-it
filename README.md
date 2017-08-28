@@ -5,7 +5,7 @@ A React component for rendering Markdown with [markdown-it](https://github.com/m
 ## Install
 
 ```
-npm install --save react-markdown
+npm install --save react-markdown-it
 ```
 
 ## Usage
