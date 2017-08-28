@@ -12,7 +12,7 @@ npm install --save react-markdown-it
 
 ```jsx
 var React = require('react')
-var Markdown = require('react-markdown')
+var Markdown = require('react-markdown-it')
 
 class Example extends React.Component {
 	render() {
